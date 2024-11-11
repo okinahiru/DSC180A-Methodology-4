@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Joshua Li
-jol029@ucsd.edu
+Joshua Li and Han Hoang
+
